@@ -1,0 +1,10 @@
+Alice.Johnson@example.com
+Bob.Smith@example.net
+Charlie.Brown@example.org
+David.Wilson@example.biz
+Eve.Davis@example.info
+Frank.Miller@example.me
+Grace.Anderson@example.tv
+Henry.Thomas@example.io
+Isabelle.Martinez@example.ca
+Jack.Harris@example.biz

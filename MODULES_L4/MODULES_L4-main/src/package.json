@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "dotenv -e .env.development -- nodemon libs/server.js",
+    "build": "dotenv -e .env.production -- nodemon libs/server.js",
+    "deploy": "dotenv -e .env.domain -- nodemon libs/server.js",
+    "go": "nodemon modules/use.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.7",
+    "dotenv-cli": "^8.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
